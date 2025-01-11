@@ -58,7 +58,6 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```plaintext
-Project Structure:
 .
 ├── data/                          # Directory for dataset (not included in repo; download separately)
 ├── Code.py                        # Python script containing the core code
@@ -66,7 +65,6 @@ Project Structure:
 ├── DataAnalytics_Report_200180517.pdf # Detailed report on methodology and result analysis
 ├── README.md                      # README file describing the project
 ├── dataanalytics.py               # Python script to upload on Colab for running the entire project
-└── requirements.txt               # Dependencies for the project
 ```
 
 ---
@@ -79,8 +77,7 @@ Project Structure:
 
 ### Training the Models
 1. Run the `dataanalytics.py` script on Google Colab or any Python environment to execute the entire project.
-2. Alternatively, use the `DataANALYTICS.ipynb` notebook for a more detailed explanation and walkthrough.
-
+2. 
 ### Results
 - **Linear Regression**:
   - R²: ~88%
