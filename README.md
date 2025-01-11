@@ -56,17 +56,12 @@ pip install -r requirements.txt
 ---
 
 ## Project Structure
-
-```plaintext
-.
-├── data/                          # Directory for dataset (not included in repo; download separately)
-├── Code.py                        # Python script containing the core code
-├── DataANALYTICS.ipynb            # Google Colab notebook exported as PDF with explanations
-├── DataAnalytics_Report_200180517.pdf # Detailed report on methodology and result analysis
-├── README.md                      # README file describing the project
-├── dataanalytics.py               # Python script to upload on Colab for running the entire project
-```
-
+- **fifa_players.csv**: Dataset used
+- **Code.py**: Python script containing the core code only without explanations
+- **DataANALYTICS.ipynb**: Google Colab notebook exported as PDF with explanations, better for readability.
+- **DataAnalytics_Report_200180517.pdf**: Detailed report on methodology and result analysis
+- **README.md**: README file describing the project
+- **dataanalytics.py**: Python script to upload on Colab for running the entire project with explanations
 ---
 
 ## Usage
