@@ -26,26 +26,6 @@ By leveraging machine learning, the project aims to provide accurate, data-drive
 
 ---
 
-## Installation
-
-To run this project locally, follow these steps:
-
-### Prerequisites
-Ensure you have the following installed:
-- Python 3.8+
-- Google Colab (optional)
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/football-market-value-prediction.git
-cd football-market-value-prediction
-```
-
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### Requirements File Includes:
 - numpy
 - pandas
