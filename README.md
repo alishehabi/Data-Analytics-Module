@@ -52,7 +52,6 @@ By leveraging machine learning, the project aims to provide accurate, data-drive
 
 ### Training the Models
 1. Run the `dataanalytics.py` script on Google Colab or any Python environment to execute the entire project.
-2. 
 ### Results
 - **Linear Regression**:
   - R²: ~88%
